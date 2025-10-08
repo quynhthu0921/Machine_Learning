@@ -11,9 +11,7 @@ conn = mysql.connector.connect(
     port=port,
     database=database,
     user=username,
-    password=password,
-    use_pure=True
-)
+    password=password,)
 
 cursor = conn.cursor()
 
