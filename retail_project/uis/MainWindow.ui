@@ -57,6 +57,9 @@
      <property name="styleSheet">
       <string notr="true">background-color: rgb(255, 255, 255);</string>
      </property>
+     <property name="text">
+      <string>putin@gmail.com</string>
+     </property>
     </widget>
     <widget class="QLabel" name="label_2">
      <property name="geometry">
@@ -82,6 +85,9 @@
      </property>
      <property name="styleSheet">
       <string notr="true">background-color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>123</string>
      </property>
      <property name="echoMode">
       <enum>QLineEdit::Password</enum>
@@ -117,7 +123,7 @@
      </property>
      <property name="icon">
       <iconset>
-       <normaloff>retail_project/imagine/ic_login_button.png</normaloff>retail_project/imagine/ic_login_button.png</iconset>
+       <normaloff>retail_project/uis/retail_project/imagine/ic_login_button.png</normaloff>retail_project/uis/retail_project/imagine/ic_login_button.png</iconset>
      </property>
     </widget>
     <widget class="QPushButton" name="pushButtonExit">
@@ -137,7 +143,7 @@
      </property>
      <property name="icon">
       <iconset>
-       <normaloff>retail_project/imagine/ic_exit_button.png</normaloff>retail_project/imagine/ic_exit_button.png</iconset>
+       <normaloff>retail_project/uis/retail_project/imagine/ic_exit_button.png</normaloff>retail_project/uis/retail_project/imagine/ic_exit_button.png</iconset>
      </property>
     </widget>
    </widget>
@@ -154,7 +160,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>retail_project/imagine/ic_login_screen.png</pixmap>
+     <pixmap>retail_project/uis/retail_project/imagine/ic_login_screen.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
